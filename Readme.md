@@ -29,7 +29,7 @@ Antes de começar, você precisará ter os seguintes programas instalados em sua
 
 3. Instale as dependências:
 
-    ```npm install
+    npm install
 
 4. Inicie o servidor:
 
