@@ -1,4 +1,4 @@
-# Nome do Projeto
+# Instagram Reprise
 
 Esse projeto tem como objetivo fazer uma replica do feed e do modelo de posts do instagram
 
