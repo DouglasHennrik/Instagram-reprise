@@ -20,12 +20,12 @@ Antes de começar, você precisará ter os seguintes programas instalados em sua
 
 1. Clone o repositório:
 
-   ```bash
+   bash
    git clone https://github.com/usuario/nome-do-repositorio.git
 
 2. Navegue até o diretório do projeto:
 
-    ```cd instagram-reprise
+    cd instagram-reprise
 
 3. Instale as dependências:
 
