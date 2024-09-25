@@ -25,12 +25,12 @@ Antes de começar, você precisará ter os seguintes programas instalados em sua
 
 2. Navegue até o diretório do projeto:
 
-    cd instagram-reprise
+    ```cd instagram-reprise
 
-3.Instale as dependências:
+3. Instale as dependências:
 
     ```npm install
 
-4.inicie o servidor:
+4. Inicie o servidor:
 
     npm run dev
