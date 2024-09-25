@@ -25,7 +25,7 @@ Antes de começar, você precisará ter os seguintes programas instalados em sua
 
 2. Navegue até o diretório do projeto:
 
-    ```cd nome-do-repositorio
+    cd instagram-reprise
 
 3.Instale as dependências:
 
